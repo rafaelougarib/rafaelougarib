@@ -1,10 +1,4 @@
 ## Não sei muito bem o que colocar, mas aqui vai!
-
-
-<div align="center">
-<img src="https://media.tenor.com/El89itaAWsIAAAAi/maxwell.gif" alt="Maxwell" width="100">
-</div>
-
 ___
 + Aspirante a iniciante em prog. Python <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="15">
 + Experiência mínima dia-a-dia, terminal e instalação com Linux Debian-like <img src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian" width="15">
@@ -13,3 +7,8 @@ ___
 ___
 + Cursando Eng. Mecatrônica 🤖
 + Se envolver radioamadorismo, fotografia, IA ou astronomia, tô dentro! (Para qualquer coisa na verdade 😁)
+
+
+<div align="center">
+<img src="https://media.tenor.com/El89itaAWsIAAAAi/maxwell.gif" alt="Maxwell" width="100">
+</div>
